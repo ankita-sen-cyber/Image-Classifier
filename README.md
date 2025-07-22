@@ -18,8 +18,8 @@ It predicts the class of a given image using a pre-trained model.
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/ankita-sen-cyber/your-repo-name.git
-cd your-repo-name
+git https://github.com/ankita-sen-cyber/Image-Classifier.git
+cd Image-Classifier
 ```
 
 
